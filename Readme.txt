@@ -1,1 +1,1 @@
-Basic Tutorial Hadoop
+Basic Tutorial Hadoop for Beginner
